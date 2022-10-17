@@ -1,0 +1,19 @@
+28,"t","Mushrooms: Released August 26, 2022, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+28,"t","Agaricus Mushroom Processing Sales, Price, and Value – States and United States: 2019-2020, 2020-2021, and 2021-2022"
+28,"h","","","","","","","","","",""
+28,"h","","Volume","Volume","Volume","Price","Price","Price","Value","Value","Value"
+28,"h","State","of","of","of","per","per","per","of","of","of"
+28,"h","","sales","sales","sales","pound 1/","pound 1/","pound 1/","sales","sales","sales"
+28,"h","","","","","","","","","",""
+28,"h","","2019-","2020-","2021-","2019-","2020-","2021-","2019-","2020-","2021-"
+28,"h","","2020","2021","2022","2020","2021","2022","2020","2021","2022"
+28,"h","","","","","","","","","",""
+28,"u","","(1,000 pounds)","(1,000 pounds)","(1,000 pounds)","(dollars)","(dollars)","(dollars)","(1,000 dollars)","(1,000 dollars)","(1,000 dollars)"
+28,"d","Pennsylvania",49311,60764,58702,0.671,0.631,0.655,33104,38365,38467
+28,"d","",,,,,,,,,
+28,"d","Other States 2/",6257,5909,5326,1.100,1.160,1.260,6889,6850,6694
+28,"d","",,,,,,,,,
+28,"d","United States",55568,66673,64028,0.720,0.678,0.705,39993,45215,45161
+28,"c",""
+28,"f","1/ Prices for mushrooms are the average prices producers receive at the point of first sale, commonly referred to as the average price as sold. For example, if in a given State, part of the fresh mushrooms are sold F.O.B. packed by growers, part are sold bulk to brokers or repackers, and some are sold retail at roadside stands, the mushroom average price as sold is a weighted average of the average price for each method of sale."
+28,"f","2/ Other States includes California, Florida, Illinois, Maryland, Oklahoma, Tennessee, and Texas."

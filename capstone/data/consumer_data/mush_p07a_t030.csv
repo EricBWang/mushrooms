@@ -1,0 +1,21 @@
+30,"t","Mushrooms: Released August 26, 2022, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+30,"t","Specialty Mushroom Area in Production by Variety – United States: 2019-2020, 2020-2021, and 2021-2022"
+30,"t","[Specialty mushroom estimates represent growers who have at least 200 natural wood logs in production or some commercial indoor growing area, and $200 in sales. Totals may not add due to rounding]"
+30,"h","","","","","","","","","",""
+30,"h","","Area in production","Area in production","Area in production","Area in production","Area in production","Area in production","Area in production","Area in production","Area in production"
+30,"h","","","","","","","","","",""
+30,"h","Variety","Natural","Natural","Natural","Natural wood","Natural wood","Natural wood","All other","All other","All other"
+30,"h","","wood outdoor","wood outdoor","wood outdoor","undercover and","undercover and","undercover and","production","production","production"
+30,"h","","logs","logs","logs","indoor logs","indoor logs","indoor logs","media","media","media"
+30,"h","","","","","","","","","",""
+30,"h","","2019-2020","2020-2021","2021-2022","2019-2020","2020-2021","2021-2022","2019-2020","2020-2021","2021-2022"
+30,"h","","","","","","","","","",""
+30,"u","","(1,000 logs)","(1,000 logs)","(1,000 logs)","(1,000 logs)","(1,000 logs)","(1,000 logs)","(1,000 square feet)","(1,000 square feet)","(1,000 square feet)"
+30,"d","Shiitake","(D)","(D)","(D)","(D)","(D)","(D)",677,723,257
+30,"d","Oyster","(D)","(D)","(D)","(D)","(D)","(D)",808,1058,641
+30,"d","Other","(D)","(D)","(D)","(D)","(D)","(D)",390,412,543
+30,"d","",,,,,,,,,
+30,"d","Total 1/",14,14,22,2401,1849,1674,1876,2193,1441
+30,"c",""
+30,"f","(D)  Withheld to avoid disclosing data for individual operations."
+30,"f","1/ Includes California, Florida, Illinois, Maryland, Oklahoma, Pennsylvania, Tennessee, and Texas."
