@@ -4,10 +4,10 @@ This project seeks to explore mushrooms in regards to how their physical charact
 ## Why Mushrooms?
  
 **Nutritional Value**
-“Mushrooms’ team of nutrients and health profile are ideal for a sports performance diet” and boosting one’s immune system by providing vitamin D to support strong bones, Potassium for muscle function and blood pressure control, B vitamins to provide energy and support metabolism, etc. Furthermore, they’re low in calories and are fat, cholesterol, and gluten-free, assisting with weight management (1). Mushrooms are also rich in Niacin or Vitamin B3, a nutrient shown to improve mood disorders by assisting in the formation of serotonin (2).
+“Mushrooms’ team of nutrients and health profile are ideal for a sports performance diet” and boosting one’s immune system by providing vitamin D to support strong bones, Potassium for muscle function and blood pressure control, B vitamins to provide energy and support metabolism, etc. Furthermore, they’re low in calories and are fat, cholesterol, and gluten-free, assisting with weight management (1). Mushrooms are also rich in Niacin or Vitamin B3, a nutrient shown to improve mood disorders by assisting in the formation of serotonin (1).
  
 **Sustainability**
-Considered one of the most sustainably produced foods in the U.S., a pound of mushrooms only require 1.8 gallons of water, a fraction of water inputs required for other foods. In addition, a pound of mushrooms only uses 1.0 kwh of electricity, generating only 0.7 pound of CO2 equivalents. They also require a very small amount of land to grow, with 1 acre being able to grow 1 million pounds of mushrooms (3)!
+Considered one of the most sustainably produced foods in the U.S., a pound of mushrooms only require 1.8 gallons of water, a fraction of water inputs required for other foods. In addition, a pound of mushrooms only uses 1.0 kwh of electricity, generating only 0.7 pound of CO2 equivalents. They also require a very small amount of land to grow, with 1 acre being able to grow 1 million pounds of mushrooms (1)!
  
 **Unique Flavor Profile**
 “Described as a savory, brothy, rich, or meaty taste sensation,” Umami is the fifth basic taste after sweet, salty, bitter and sour (4). It enables flavor enhancement, counterbalances saltiness, and highlights sweetness while lessening bitterness.
@@ -44,3 +44,6 @@ A natural next step in my analysis of these datasets would be to build models fo
 
 ## Conclusions
 Mushrooms are diverse. If you’re looking to pick out ones that are safe to consume, it’s quite a challenging task as a mushroom’s edibility results from many factors. Thankfully, we have experts and strong machine learning models! There are clear growth trends in volume and dollar sales of mushrooms in the retail industry over the past eight years, with grocery channels possessing the majority channel share. Despite this, there’s also been a decrease in the number of mushroom related items introduced in food service contexts. 
+
+**Citations**
+1. https://www.mushroomcouncil.org/
